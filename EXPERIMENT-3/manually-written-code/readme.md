@@ -1,0 +1,1 @@
+Manual code link:: https://github.com/Thaslina/Face-_Emotion_Detection-
